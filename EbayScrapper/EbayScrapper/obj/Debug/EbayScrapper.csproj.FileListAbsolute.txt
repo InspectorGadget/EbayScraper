@@ -1,0 +1,10 @@
+D:\files\EbayScrapper\EbayScrapper\bin\Debug\EbayScrapper.exe.config
+D:\files\EbayScrapper\EbayScrapper\bin\Debug\EbayScrapper.exe
+D:\files\EbayScrapper\EbayScrapper\bin\Debug\EbayScrapper.pdb
+D:\files\EbayScrapper\EbayScrapper\bin\Debug\HtmlAgilityPack.dll
+D:\files\EbayScrapper\EbayScrapper\bin\Debug\HtmlAgilityPack.pdb
+D:\files\EbayScrapper\EbayScrapper\bin\Debug\HtmlAgilityPack.xml
+D:\files\EbayScrapper\EbayScrapper\obj\Debug\EbayScrapper.csprojResolveAssemblyReference.cache
+D:\files\EbayScrapper\EbayScrapper\obj\Debug\EbayScrapper.csproj.CoreCompileInputs.cache
+D:\files\EbayScrapper\EbayScrapper\obj\Debug\EbayScrapper.exe
+D:\files\EbayScrapper\EbayScrapper\obj\Debug\EbayScrapper.pdb
